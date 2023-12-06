@@ -1,0 +1,10 @@
+INTRODUCTION OF  SQL
+
+SQL : SEQUENTIAL QUERY LANGUAGE
+
+SQL use for communicate with RDBMS
+SQL is also known as Sequential English Query Language i.e SEQUEL
+SQL in not case sensitive
+
+
+
